@@ -1,10 +1,3 @@
-//
-//  ListViewModel.swift
-//  TodoList
-//
-//  Created by Nick Sarno on 3/3/21.
-//
-
 import Foundation
 
 /*
