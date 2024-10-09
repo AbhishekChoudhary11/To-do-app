@@ -1,10 +1,3 @@
-//
-//  ListView.swift
-//  TodoList
-//
-//  Created by Nick Sarno on 3/2/21.
-//
-
 import SwiftUI
 
 struct ListView: View {
