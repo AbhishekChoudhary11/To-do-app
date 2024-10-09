@@ -1,10 +1,3 @@
-//
-//  ItemModel.swift
-//  TodoList
-//
-//  Created by Nick Sarno on 3/2/21.
-//
-
 import Foundation
 
 // Immutable Struct has only 'let' constants
